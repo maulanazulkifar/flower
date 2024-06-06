@@ -9,7 +9,10 @@
 :root {
   --dark-color: #000;
 }
-
+.text {
+  color: aqua; 
+  font-family: roboto, sans-serif,
+}
 body {
   display: flex;
   align-items: flex-end;
